@@ -505,7 +505,7 @@ html.motion .varv-disclaimer a{transition:opacity .2s ease}
 .varv-disclaimer a:hover{opacity:.75}
 @media (max-width:560px){.varv-disclaimer{font-size:.68rem;padding:.5rem 16px}}
 
-/* ============ VARV POPUP ============ */
+/* ============ KEEP PIVOTING POPUP ============ */
  … 
 /* ============ TEAM FACE -> LINKEDIN (tap-face rule) ============ */
 a.person{color:inherit;display:block}
@@ -582,7 +582,7 @@ html.motion .contact-card .clinks a{transition:all .2s ease}
 .contact-card .clinks a:hover{background:#FAFAFA;color:var(--green)}
 @media (max-width:820px){.contact-grid{grid-template-columns:1fr;gap:2.4rem}}
 
-/* ============ VARV POPUP ============ */
+/* ============ KEEP PIVOTING POPUP ============ */
 /* Default resting state = HIDDEN & static. The visible state lives only under
      #varv-popup.is-open, so headless/static renders are deterministic. */
   #varv-popup{

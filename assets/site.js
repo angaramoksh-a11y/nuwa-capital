@@ -97,7 +97,7 @@
 })();
 })();
 
-/* ===== varv ask-your-AI popup (fields filled: Khaled Talhouni / Managing Partner / Nuwa Capital) ===== */
+/* ===== Keep Pivoting ask-your-AI popup (fields filled: Khaled Talhouni / Managing Partner / Nuwa Capital) ===== */
 (function(){
   "use strict";
   var el = document.getElementById('varv-popup');
